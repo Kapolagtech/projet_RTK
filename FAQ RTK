@@ -1,2 +1,3 @@
 RTK : Real Time Kinematic
 GNSS : Flux réseaux envoyé depuis le satellite qui sera ajusté par le système RTK
+DAC :  Composant électronique dont la fonction est de transformer une valeur numérique en une valeur analogique proportionnelle à la valeur numérique codée.
